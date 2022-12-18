@@ -1,3 +1,5 @@
-n=int(input("Enter n value:"))
+n=int(input("Enter n value = "))
 for i in range(1,n+1):
     print(i,end=" ")
+    
+print("Code is made By Aryan_(""°✓°"")")
